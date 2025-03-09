@@ -2,6 +2,7 @@
 Samira discord animated theme
 
 
-![Samira](https://i.postimg.cc/L5mTv3pC/samira.png)
+<img src="(https://i.postimg.cc/L5mTv3pC/samira.png)" style="width:auto; height:400px; object-fit: contain;">
+
 
 
